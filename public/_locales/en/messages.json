@@ -1,0 +1,18 @@
+{
+  "extName": {
+    "message": "DeepL Page Translator",
+    "description": "Name of the extension"
+  },
+  "extDescription": {
+    "message": "Translate web pages with DeepL API instantly.",
+    "description": "Description of the extension"
+  },
+  "contextMenuTranslate": {
+    "message": "Translate Page to Russian",
+    "description": "Context menu item"
+  },
+  "errorNoKey": {
+    "message": "DeepL API Key is missing.",
+    "description": "Error message"
+  }
+}
